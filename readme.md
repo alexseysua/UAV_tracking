@@ -3,11 +3,11 @@
 
 After about 700 episodes, the performance is shown as follows:
 
-<div style="display: flex; justify-content: center;">
-  <img src="Robust_RL_test.gif" alt="First GIF" wideth="45%" style="margin-right: 10px;">
+<div style="display: flex; justify-content: center; width: 92%; max-width: 800px;">
+  <img src="Robust_RL_test.gif" alt="First GIF" width="45%" style="margin-right: 10px;">
   <img src="robust_tracker.gif" alt="Second GIF" width="45%">
 </div>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; width: 92%; max-width: 800px;">
   <img src="robust_tracker1.gif" alt="Third GIF" width="45%" style="margin-right: 10px;">
   <img src="robust_tracker2.gif" alt="Fourth GIF" width="45%">
 </div>
