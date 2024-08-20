@@ -4,11 +4,12 @@
 After about 700 episodes, the performance is shown as follows:
 
 <div align="center">
-  <img src="Robust_RL_test.gif" width = "50%" height="50%"/>
+  <img src="Robust_RL_test.gif" alt="First GIF"  width = "50%" height="50%"/>
+  <ig src="robust_tracker.gif" alt="Second GIF" width=50%" height="50%">
 </div>
 <div style="display: flex; justify-content: center;">
-  <img src="robust_tracker1.gif" alt="First GIF" width="50%" height="50%" style="margin-right: 10px;">
-  <img src="robust_tracker2.gif" alt="Second GIF" width=50%" height="50%">
+  <img src="robust_tracker1.gif" alt="First GIF" width="50%" height="50%" style="margin-right: 10px;">m
+  <ig src="robust_tracker2.gif" alt="Second GIF" width=50%" height="50%">
 </div>
 ## Requirements
 Python 3.10  
