@@ -4,7 +4,7 @@
 After about 700 episodes, the performance is shown as follows:
 
 <div style="display: flex; justify-content: center;">
-  <img src="Robust_RL_test.gif" alt="First GIF"  width = "45%" height="45%" style="margin-right: 10px;">
+  <img src="robust_tracker.gif" alt="First GIF"  width = "45%" height="45%" style="margin-right: 10px;">
   <img src="robust_tracker.gif" alt="Second GIF" width=45%" height="45%">
 </div>
 <div style="display: flex; justify-content: center;">
